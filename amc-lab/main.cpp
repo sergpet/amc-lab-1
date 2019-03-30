@@ -7,6 +7,12 @@
 //
 
 #include <iostream>
+#include <iostream>
+#include <cstdarg>
+#include "Line.h"
+#include "Point.h"
+#include "Polyline.h"
+#include "Primitive.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
